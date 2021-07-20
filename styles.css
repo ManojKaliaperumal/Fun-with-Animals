@@ -1,0 +1,17 @@
+.main {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+#emoji-span {
+  font-size: 2.5rem;
+  padding: 0.5rem;
+  cursor: pointer;
+}
+
+.placehandler {
+  padding: 0rem 3rem;
+  margin: auto;
+  font-size: medium;
+  text-align: center;
+}
